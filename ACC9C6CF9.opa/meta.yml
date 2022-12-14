@@ -1,0 +1,22 @@
+id: ACC9C6CF9
+title: Toh_218-Purification_of_Karmic_Obscurations-v1
+type: translation
+pechas:
+- IE4EF4855
+- I96716D62
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-18T04:04:33.736Z'
+  creationid: mabja
+  eft-text-id: UT22084-062-018
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_218-Purification_of_Karmic_Obscurations-v1
+alignment_to_base:
+  IE4EF4855/BF41: '9090'
+  I96716D62/7AB3: '9090'
